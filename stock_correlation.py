@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-API_KEY = 'QDM34VYUQYHQA4V3'  # Your Alpha Vantage API key
+API_KEY = 'YOUR_KEY'  # Your Alpha Vantage API key
 symbols = ['BABA', 'BIDU', 'AMZN', 'GOOGL']
 dfs = []
 
